@@ -7,8 +7,8 @@ def test_calc_addition():
 
 def test_calc_substraction():
   # Function test the output of 2-4
-    output = 2-4
-    assert output == -2
+    output = 2-5
+    assert output == -3
 
 def test_calc_multiply():
   # Function test the output of 2*4
