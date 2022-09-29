@@ -5,9 +5,9 @@ def test_calc_addition():
   assert output == 6
 
 def test_calc_substraction():
-  # Function test the output of 2-4
-  output = 2-5
-  assert output == -3
+    # Function test the output of 2-4
+    output = 2-5
+    assert output == -3
 
 def test_calc_multiply():
   # Function test the output of 2*4
